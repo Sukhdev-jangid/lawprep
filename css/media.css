@@ -1,0 +1,446 @@
+@media only screen and (min-width:270px) and (max-width:576px) {
+    .navbar {
+    
+        justify-content: space-between;
+    }
+    .togglebtn{
+        display: block;
+    }
+    .menubar{
+        display: none;
+    }
+
+    .bannerinner{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .bannerinnnerleft{
+        width: 85%;
+        height: 100%;
+    }
+    .bannerinnnerright{
+        width: 85%;
+    }
+    .section1innner>h3{
+        font-size: 25px;
+    }
+
+    .section2inner{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .section2box{
+        width: 85%;
+        margin: 10px 10px;
+    }
+   
+    .formrow{
+        margin: 15px auto;
+        width: 250px;
+    }
+
+    
+    .formrow>input{
+        width: 250px;
+        height: 40px;
+        border-radius: 4px;
+    }
+    
+    .formrow>select{
+        width: 250px;
+    }
+
+    .formbutton{
+        width: 250px ;
+    }
+
+    .formbutton>button{
+        width: 250px;
+    }
+
+    .section3boxs{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .section3box{
+        width: 80%;
+        margin: 10px;
+    }
+
+    .section4inner{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .section4box{
+        width: 70%;
+        margin: 20px 0px;
+    }
+
+    .section4icon{
+        width: 15%;
+    }
+    
+    .section4box>p{
+        margin-left: 15%;
+        color: var(--bg-color);
+    }
+
+    .section5imgs{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .section5img{
+        width: 65%;
+        margin: 0px 10px;   
+    }
+
+    .section6inner{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .section6c1{
+        width: 100%;
+    }
+
+    .section6c2{
+        width: 100%;
+    }
+    
+    .section6c1r1{
+        display: block;
+    }
+
+    .section6c1r2{
+        display: block;
+    }
+
+    .section6img{
+        width: 100%;
+    }
+
+    .section6img>img{
+        height: 300px;
+    }
+
+    .section6imginfo{
+        width: 100%;
+    }
+
+    .section7row>img{
+        width: 18px;
+        height: 18px;
+    }
+
+    .section8inner {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    
+    .section8C {
+        width: 85%;
+    }
+    
+}
+
+@media only screen and (min-width:576px) and (max-width:767px) {
+    .navbar {
+    
+        justify-content: space-between;
+    }
+    .togglebtn{
+        display: block;
+    }
+    .menubar{
+        display: none;
+    }
+
+    .bannerinner{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .bannerinnnerleft{
+        width: 85%;
+        height: 100%;
+    }
+    .bannerinnnerright{
+        width: 85%;
+    }
+    .section1innner>h3{
+        font-size: 25px;
+    }
+    .section2inner{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .section2box{
+        width: 45%;
+        margin: 10px 10px;
+    }
+
+    .section3boxs{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .section3box{
+        width: 80%;
+        margin: 10px;
+    }
+
+    .section4inner{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .section4box{
+        width: 70%;
+        margin: 20px 0px;
+    }
+
+    .section4icon{
+        width: 11%;
+    }
+    
+    .section4box>p{
+        margin-left: 11%;
+        color: var(--bg-color);
+    }
+
+    .section5imgs{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .section5img{
+        width: 45%;
+        margin: 0px 10px;   
+    }
+
+    .section6inner{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .section6c1{
+        width: 100%;
+    }
+
+    .section6c2{
+        width: 100%;
+    }
+
+    .section7row>img{
+        width: 18px;
+        height: 18px;
+    }
+
+    .section8inner {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    
+    .section8C {
+        width: 45%;
+    }
+    
+}
+
+@media only screen and (min-width:767px) and (max-width:992px) {
+    .navbar {
+    
+        justify-content: space-between;
+    }
+    .togglebtn{
+        display: block;
+    }
+    .menubar{
+        display: none;
+    }
+    
+   
+    .bannerinner{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .bannerinnnerleft{
+        width: 85%;
+        height: 100%;
+    }
+    .bannerinnnerright{
+        width: 85%;
+    }
+
+    .section2inner{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .section2box{
+        width: 45%;
+        margin: 10px 10px;
+    }
+    .section3boxs{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .section3box{
+        width: 80%;
+        margin: 10px;
+    }
+
+    .section4inner{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .section4box{
+        width: 70%;
+        margin: 20px 0px;
+    }
+
+    .section4icon{
+        width: 9%;
+    }
+    
+    .section4box>p{
+        margin-left: 9%;
+        color: var(--bg-color);
+    }
+
+    .section5imgs{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .section5img{
+        width: 28%;
+        margin: 0px 10px;   
+    }
+
+    .section6inner{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .section6c1{
+        width: 100%;
+    }
+
+    .section6c2{
+        width: 100%;
+    }
+    
+    .section8inner {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    
+    .section8C {
+        width: 45%;
+    }
+    
+}
+
+@media only screen and (min-width:992px) and (max-width:1200px) {
+    .menubar{
+        margin-left: 0px;
+    }
+
+    .section2inner{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .section2box{
+        width: 30%;
+        margin: 10px 10px;
+    }
+
+    .formrow{
+        margin: 15px auto;
+        width: 250px;
+    }
+
+    
+    .formrow>input{
+        width: 250px;
+        height: 40px;
+    }
+    
+    .formrow>select{
+        width: 250px;
+    }
+
+    .formbutton{
+        width: 250px ;
+    }
+
+    .formbutton>button{
+        width: 250px;
+    }
+
+    .section3boxs{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .section3box{
+        width: 40%;
+        margin: 10px;
+    }
+
+    .section4icon{
+        width: 9%;
+    }
+    
+    .section4box>p{
+        margin-left: 9%;
+        color: var(--bg-color);
+    }
+
+    .section5imgs{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .section5img{
+        width: 28%;
+        margin: 0px 10px;
+        
+    }
+
+    .section8inner {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    
+    .section8C {
+        width: 30%;
+    }
+
+}
+
+@media only screen and (min-width:1200px) and (max-width:1400px) {
+    .menubar{
+        margin-left: 80px;
+    }
+    .menubar ul{
+        font-size: 13px;
+    }
+
+    .menubar ul li{
+        color: white;
+        margin: 0px 5px;
+        padding: 5px
+    }
+    .onlinemenu ul li{
+        color: black;
+    }
+}
